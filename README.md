@@ -16,10 +16,9 @@ The system combines PGN-based analysis of Rashid’s historical games with heuri
 ---
 
 ## Project Structure
-
-**data/ → Rashid’s PGN dataset
-src/ → Core bot logic (nextchessmove_rashid.py)
-requirements.txt → Python libraries**
+-  data/ → Rashid’s PGN dataset
+-  src/ → Core bot logic (nextchessmove_rashid.py)
+-  requirements.txt → Python libraries
 
 ---
 
