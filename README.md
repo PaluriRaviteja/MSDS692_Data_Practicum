@@ -29,10 +29,11 @@ requirements.txt → Python libraries**
 ```bash
 git clone https://github.com/<yourusername>/Rashid_Ne zhmetdinov_ChessBot.git
 cd Rashid_Ne zhmetdinov_ChessBot
+```
 
 ### Install Requirements
 
-**For macOS users (with Homebrew):**
+### For macOS users (with Homebrew):
 
 brew install stockfish
 pip install -r requirements.txt
