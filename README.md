@@ -39,8 +39,8 @@ pip install -r requirements.txt
 ```
 **For Windows/Linux users:**
 
-Download Stockfish from stockfishchess.org/download
-Update the path in src/nextchessmove_rashid.py if needed.
+-  Download Stockfish from stockfishchess.org/download
+-  Update the path in src/nextchessmove_rashid.py if needed.
 
 **Running the Rashid Bot**
 ```
@@ -48,20 +48,20 @@ Update the path in src/nextchessmove_rashid.py if needed.
   python nextchessmove_rashid.py
 ```
 This launches a Tkinter GUI where you can:
-  Play interactively against the Rashid bot
-  View move suggestions and evaluation bars
-  Experience a more tactical and aggressive playstyle
+-  Play interactively against the Rashid bot
+-  View move suggestions and evaluation bars
+-  Experience a more tactical and aggressive playstyle
 
 **Data and Features**
 
-  ~300 PGN games collected from 365Chess and Lichess.
-  Extracted tactical features using python-chess.
-  Identified motifs: sacrifices, forks, pins, discovered attacks.
+  -  ~300 PGN games collected from 365Chess and Lichess.
+  -  Extracted tactical features using python-chess.
+  -  Identified motifs: sacrifices, forks, pins, discovered attacks.
 
 **Technologies**
 
-  Python 3.10+
-  python-chess
-  stockfish
-  pandas, matplotlib, seaborn, scikit-learn
-  tkinter (for GUI)
+  -  Python 3.10+
+  -  python-chess
+  -  stockfish
+  -  pandas, matplotlib, seaborn, scikit-learn
+  -  tkinter (for GUI)
