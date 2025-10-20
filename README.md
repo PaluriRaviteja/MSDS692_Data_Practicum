@@ -30,7 +30,7 @@ requirements.txt → Python libraries**
 git clone https://github.com/<yourusername>/Rashid_Ne zhmetdinov_ChessBot.git
 cd Rashid_Ne zhmetdinov_ChessBot
 
-**## Install Requirements**
+### Install Requirements
 
 **For macOS users (with Homebrew):**
 
