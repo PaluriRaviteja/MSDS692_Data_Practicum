@@ -1,0 +1,6 @@
+python-chess
+stockfish
+pandas
+matplotlib
+seaborn
+tkinter
