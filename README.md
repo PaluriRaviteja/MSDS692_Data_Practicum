@@ -34,20 +34,20 @@ cd Rashid_Ne zhmetdinov_ChessBot
 ### Install Requirements
 
 ### For macOS users (with Homebrew):
-
+```
 brew install stockfish
 pip install -r requirements.txt
-
+```
 **For Windows/Linux users:**
 
 Download Stockfish from stockfishchess.org/download
 Update the path in src/nextchessmove_rashid.py if needed.
 
 **Running the Rashid Bot**
-
+```
   cd src
   python nextchessmove_rashid.py
-
+```
 This launches a Tkinter GUI where you can:
   Play interactively against the Rashid bot
   View move suggestions and evaluation bars
