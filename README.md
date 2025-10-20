@@ -65,3 +65,19 @@ This launches a Tkinter GUI where you can:
   -  stockfish
   -  pandas, matplotlib, seaborn, scikit-learn
   -  tkinter (for GUI)
+
+
+---
+
+## Online Presence  
+
+To complement this practicum project, I published a Medium article that narrates the journey of building the Rashid-style Chess Bot — from data collection to model design and visualization.
+
+**Read the full story here:**  
+[Building a Chess Bot That Thinks Like Rashid Nezhmetdinov](<https://medium.com/@paluriraviteja96/building-a-chess-bot-that-thinks-like-rashid-nezhmetdinov-2b394087d6bc>)
+
+---
+
+
+
+
